@@ -4,6 +4,7 @@ Git has a mutable index called stage.
 Git tracks changes of files new.
 Creating a new branch is quick and simple.
 Test merge.
+hello python
 Test no-ff merge.
 Test stash.
 jiuyi.

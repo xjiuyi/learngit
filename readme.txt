@@ -7,3 +7,4 @@ Test merge.
 Test no-ff merge.
 Test stash.
 jiuyi.
+add color.
